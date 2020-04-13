@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a , b = 5 ;
+int sum ;
+char alpha ;
+String user ;
+sum = a + b ;
+char def ;
+prinyf("Sum of two number is :", sum);
+int google ;
+
+}
+
+

@@ -1,0 +1,3 @@
+ this is the file and you want count word in this file 
+
+
